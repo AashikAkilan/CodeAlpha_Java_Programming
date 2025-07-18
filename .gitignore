@@ -1,0 +1,17 @@
+# Java compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE files (Eclipse/VS Code)
+.classpath
+.project
+.settings/
+.vscode/
+
+# Bin and build folders
+/bin/
+/build/
